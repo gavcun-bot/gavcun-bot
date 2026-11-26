@@ -6,4 +6,4 @@ I'm a chemical engineer (EIT) working with petroleum testing instruments. I buil
 - **[Industrial Operations Analytics](https://github.com/gavcun-bot/industrial-operations-analytics)** — A Python dashboard for late orders, cash receipts by product, and customer concentration. [Open the dashboard](https://gavcun-bot.github.io/industrial-operations-analytics/).
 - **[Attendance PDF Automation](https://github.com/gavcun-bot/attendance-pdf-automation)** — Two Make workflows that prompt a team to update a schedule, export it as a PDF, and reply in the original email thread.
 
-The public demos use fictional data.
+The public demos use fictional data (for confidentiality, privacy, and NDA purposes). 
